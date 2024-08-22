@@ -1,4 +1,4 @@
-package com.julienvey.trello.youtrack;
+package cz.trixi.youtrack;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -10,7 +10,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.HashMap;
 import java.util.Map;
 
-import static com.julienvey.trello.Config.*;
+import static cz.trixi.Config.*;
 
 public class YouTrack {
 

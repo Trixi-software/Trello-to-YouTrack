@@ -1,4 +1,4 @@
-package com.julienvey.trello;
+package cz.trixi;
 
 import java.util.Map;
 
